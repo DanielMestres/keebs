@@ -1,5 +1,5 @@
 # Models
-A collection CAD models personally made, includes custom macro-pads and keyboards.
+A collection of CAD models personally made, includes custom macro-pads and keyboards.
 
 ## Middleware
   - Keyboard Layout Editor [http://www.keyboard-layout-editor.com/#/]
